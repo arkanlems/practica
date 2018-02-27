@@ -9,7 +9,8 @@ mundo
 uso 
 git 
 hub
-askljdñhaskljdh
+askljdÃ±haskljdh
 asdkjasdh
 cout>>"asdas">>endl;
+cin>>qwdeq
 >>>>>>> origin/master
