@@ -1,4 +1,12 @@
 askldha
+<<<<<<< HEAD
 asdasda
 asdasdfzs
 asdfasd
+=======
+hola 
+mundo 
+uso 
+git 
+hub
+>>>>>>> origin/master
